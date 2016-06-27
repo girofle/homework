@@ -1,0 +1,27 @@
+body{
+    width: 960px;
+    margin: auto;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+h2{
+    color: red;
+    font-size: 50px;
+}
+
+img {
+    width: 35%;
+    float: right;
+}
+
+.pullqote {
+    width: 55%;
+    float: right;
+    
+}
+
+.textnew {
+    
+    clear: both;
+    
+}
